@@ -19,4 +19,4 @@ Instructions are [here](https://github.com/becodeorg/lovelace-2/blob/master/Parc
 Not really big problems,just to get used with HTML and CSS.
 
 
-[Link](https://marianeniwe.github.io/BeCode-Projects/6-Exo-vcard-html/) to the page.
+[Link](https://m-ainee.github.io/VCard/) to the page.
